@@ -1,6 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'Common Nonsense'
+title = 'My New Hugo Site'
 
 [markup]
     [markup.goldmark]
