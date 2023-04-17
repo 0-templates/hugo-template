@@ -1,0 +1,10 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Common Nonsense'
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.parser]
+            wrapStandAloneImageWithinParagraph = false
+    [markup.goldmark.renderer]
+         unsafe = true
